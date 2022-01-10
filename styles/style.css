@@ -185,7 +185,7 @@
 /* feynman */
 
 .feynman {
-  height: 890px;
+  min-height: 890px;
   position: relative;
   background-color: #f2f2f2;
   padding-top: 100px;
@@ -259,7 +259,7 @@
   color: white;
 }
 
-.table__theme_dark {
+.table_theme_dark {
   color: white;
 }
 
