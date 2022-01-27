@@ -11,9 +11,3 @@
   box-sizing: border-box;
 }
 
-.feynman__img {
-  position: absolute;
-  left: 0;
-  bottom: 0;
-  z-index: 0;
-}
